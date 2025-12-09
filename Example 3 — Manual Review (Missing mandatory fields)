@@ -1,0 +1,29 @@
+{
+  "extractedFields": {
+    "Policy Number": null,
+    "Policyholder Name": null,
+    "Date of Loss": null,
+    "Time of Loss": null,
+    "Location": null,
+    "Description": null,
+    "Claim Type": null,
+    "Estimated Damage": null,
+    "Asset Type": "Automobile",
+    "Initial Estimate": null,
+    "Attachments": null
+  },
+  "missingFields": [
+    "Policy Number",
+    "Policyholder Name",
+    "Date of Loss",
+    "Time of Loss",
+    "Location",
+    "Description",
+    "Claim Type",
+    "Estimated Damage",
+    "Initial Estimate",
+    "Attachments"
+  ],
+  "recommendedRoute": "Manual review",
+  "reasoning": "One or more mandatory fields are missing: Policy Number, Policyholder Name, Date of Loss, Time of Loss, Location, Description, Claim Type, Estimated Damage, Initial Estimate, Attachments."
+}
