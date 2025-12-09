@@ -1,0 +1,18 @@
+{
+  "extractedFields": {
+    "Policy Number": "POL-778202",
+    "Policyholder Name": "Carlos Ramirez",
+    "Date of Loss": "01/29/2025",
+    "Time of Loss": "11:15 PM",
+    "Location": "Highway 80 westbound exit ramp",
+    "Description": "Claimant alleges staged accident and inconsistent story from passenger.",
+    "Claim Type": "Vehicle Collision",
+    "Estimated Damage": "$12,900",
+    "Asset Type": "Automobile",
+    "Initial Estimate": "$12,900",
+    "Attachments": "Witness statement pending"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Investigation Flag",
+  "reasoning": "The description contains keywords associated with potential fraud ('staged', 'inconsistent')."
+}
