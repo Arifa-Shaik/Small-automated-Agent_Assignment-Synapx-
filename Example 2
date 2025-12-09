@@ -1,0 +1,18 @@
+{
+  "extractedFields": {
+    "Policy Number": "AUTO-998877",
+    "Policyholder Name": "Jane Doe",
+    "Date of Loss": "01/15/2025",
+    "Time of Loss": "08:45 PM",
+    "Location": "Main St & 3rd Ave, Springfield",
+    "Description": "Rear-end collision at a traffic light. No injuries reported and no sign of fraud or staged event.",
+    "Claim Type": "Automobile – property damage",
+    "Estimated Damage": "$18,500",
+    "Asset Type": "Automobile",
+    "Initial Estimate": "$18,500",
+    "Attachments": "Photos: 4; Police report: 1"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage (18500.0) is less than 25,000 and all mandatory fields are present with no fraud-related keywords."
+}
