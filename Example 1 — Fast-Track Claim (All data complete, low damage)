@@ -1,0 +1,18 @@
+{
+  "extractedFields": {
+    "Policy Number": "AUTO-554822",
+    "Policyholder Name": "Johnathan Reed",
+    "Date of Loss": "01/14/2025",
+    "Time of Loss": "09:42 AM",
+    "Location": "225 North Jefferson Road, Springfield",
+    "Description": "Rear bumper damage due to minor collision at traffic signal.",
+    "Claim Type": "Automobile - Property Damage",
+    "Estimated Damage": "$14,800",
+    "Asset Type": "Automobile",
+    "Initial Estimate": "$14,800",
+    "Attachments": "Photos: yes, Police report: yes"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "All mandatory fields are present and the estimated damage (14800.0) is less than $25,000."
+}
