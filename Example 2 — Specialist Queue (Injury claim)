@@ -1,0 +1,18 @@
+{
+  "extractedFields": {
+    "Policy Number": "MTR-932112",
+    "Policyholder Name": "Emily Carter",
+    "Date of Loss": "02/02/2025",
+    "Time of Loss": "05:27 PM",
+    "Location": "41 Bellevue Rd, San Diego",
+    "Description": "Two-vehicle collision resulting in minor passenger injuries.",
+    "Claim Type": "Injury",
+    "Estimated Damage": "$32,500",
+    "Asset Type": "Automobile",
+    "Initial Estimate": "$32,500",
+    "Attachments": "Medical report submitted"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "The claim type includes injury, requiring routing to the specialist queue."
+}
