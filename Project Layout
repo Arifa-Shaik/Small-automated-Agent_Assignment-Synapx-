@@ -1,0 +1,6 @@
+fnol-agent/
+├─ fnol_agent.py          # main logic
+├─ sample_data/
+│   └─ ACORD-Automobile-Loss-Notice-12.05.16.pdf
+├─ README.md
+└─ requirements.txt
